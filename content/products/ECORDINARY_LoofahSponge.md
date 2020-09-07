@@ -1,5 +1,5 @@
 ---
-title: "ECORDINARY biodegradable loofah cellulose sponge"
+title: "Bio-degradable loofah cellulose sponge"
 date: 2019-10-17T11:22:16+06:00
 draft: false
 
@@ -11,10 +11,10 @@ price: "20.00$"
 priceBefore: ""
 
 # Product Short Description
-shortDescription: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut"
+shortDescription: "The Best sponge ever"
 
 #product ID
-productID: "3"
+productID: "1"
 
 # type must be "products"
 type: "products"
