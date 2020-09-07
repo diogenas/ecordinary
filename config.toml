@@ -59,9 +59,9 @@ disqusShortname = ""
   weight = 1
   
   [[menu.footer]]
-  name = "Blog"
+  name = "Blogs"
   URL = "blog"
-  weight = 2
+  weight = 0
   
   [[menu.footer]]
   name = "FAQ"
@@ -81,7 +81,7 @@ disqusShortname = ""
 
 #################### default parameters ################################
 [params]
-logo = "images/EcordinaryLogo1200.svg"
+logo = "images/logo_ecordinary.png"
 home = "Home"
 # Meta data
 description = "Eco friendly biodegradable products"
