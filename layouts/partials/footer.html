@@ -47,12 +47,12 @@
 {{ "<!-- JS Plugins -->" | safeHTML }}
 {{ range site.Params.plugins.js}}
 <script src="{{ .link | absURL }}"></script>
-{{ end }}
-
 {{ "<!-- klaviyo -->" | safeHTML }}
 <script type="text/javascript" async src="https://static.klaviyo.com/onsite/js/klaviyo.js?company_id=XPjZUE">
 </script>
+
 {{ end }}
+
 
 {{ "<!-- Main Script -->" | safeHTML }}
 {{ $script := resources.Get "js/script.js" | minify}}
