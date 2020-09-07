@@ -6,4 +6,4 @@ description : "this is a meta description"
 ---
 
 
-{{<div class="klaviyo-form-Ye2xtb"></div>}}
+{{< klaviyo >}}
