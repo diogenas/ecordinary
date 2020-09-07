@@ -2,7 +2,6 @@
 baseURL = "https://ecordinary.netlify.app/"
 languageCode = "en-us"
 title = "Ecordinary"
-theme = "hargo"
 summaryLength = "20"
 paginate = 10
 disqusShortname = ""
