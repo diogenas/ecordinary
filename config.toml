@@ -24,9 +24,6 @@ disqusShortname = ""
   link = "plugins/bootstrap/bootstrap.min.js"
   [[params.plugins.js]]
   link = "plugins/slick/slick.min.js"
-  [[params.plugins.js]]
-  link = "plugins/google-map/gmap.js"
-
   
 ############################## navigation ###############################
 [menu]
@@ -85,11 +82,6 @@ home = "Home"
 # Meta data
 description = "Eco friendly biodegradable products"
 author = "Ecordinary"
-# google map
-gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
-mapLatitude = "51.5223477"
-mapLongitude = "-0.1622023"
-mapMarker = "images/marker.png"
 # Google Analitycs
 googleAnalitycsID = "" # Your ID
 # Contact Information
