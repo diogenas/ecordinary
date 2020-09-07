@@ -7,4 +7,3 @@ image: "images/blog/post-1.jpg"
 
 ---
 
-{{<div class="klaviyo-form-Ye2xtb"></div>}}
