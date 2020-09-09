@@ -77,7 +77,7 @@ disqusShortname = ""
 
 #################### default parameters ################################
 [params]
-logo = "images/logo.jpg"
+logo = "images/EcordinaryLogo1200.svg"
 home = "Home"
 # Meta data
 description = "Eco friendly biodegradable products"
